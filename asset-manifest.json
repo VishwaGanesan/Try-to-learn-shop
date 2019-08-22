@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Try-to-learn-shop/static/css/main.ef433c81.chunk.css",
-    "main.js": "/Try-to-learn-shop/static/js/main.fb5ba9a1.chunk.js",
-    "main.js.map": "/Try-to-learn-shop/static/js/main.fb5ba9a1.chunk.js.map",
+    "main.css": "/Try-to-learn-shop/static/css/main.f829d76d.chunk.css",
+    "main.js": "/Try-to-learn-shop/static/js/main.928b4e4e.chunk.js",
+    "main.js.map": "/Try-to-learn-shop/static/js/main.928b4e4e.chunk.js.map",
     "runtime~main.js": "/Try-to-learn-shop/static/js/runtime~main.23b140c6.js",
     "runtime~main.js.map": "/Try-to-learn-shop/static/js/runtime~main.23b140c6.js.map",
-    "static/js/2.8d4e1be7.chunk.js": "/Try-to-learn-shop/static/js/2.8d4e1be7.chunk.js",
-    "static/js/2.8d4e1be7.chunk.js.map": "/Try-to-learn-shop/static/js/2.8d4e1be7.chunk.js.map",
+    "static/js/2.bb9b216f.chunk.js": "/Try-to-learn-shop/static/js/2.bb9b216f.chunk.js",
+    "static/js/2.bb9b216f.chunk.js.map": "/Try-to-learn-shop/static/js/2.bb9b216f.chunk.js.map",
     "index.html": "/Try-to-learn-shop/index.html",
-    "precache-manifest.1cba1fc982fd01230ac5ae4881acbf0e.js": "/Try-to-learn-shop/precache-manifest.1cba1fc982fd01230ac5ae4881acbf0e.js",
+    "precache-manifest.43689739e6a1ad42947de454c2f58c5f.js": "/Try-to-learn-shop/precache-manifest.43689739e6a1ad42947de454c2f58c5f.js",
     "service-worker.js": "/Try-to-learn-shop/service-worker.js",
-    "static/css/main.ef433c81.chunk.css.map": "/Try-to-learn-shop/static/css/main.ef433c81.chunk.css.map",
+    "static/css/main.f829d76d.chunk.css.map": "/Try-to-learn-shop/static/css/main.f829d76d.chunk.css.map",
     "static/media/image.png": "/Try-to-learn-shop/static/media/image.7d4e3074.png",
     "static/media/logo.svg": "/Try-to-learn-shop/static/media/logo.5d5d9eef.svg"
   }
