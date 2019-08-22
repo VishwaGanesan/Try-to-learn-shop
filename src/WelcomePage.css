@@ -1,23 +1,21 @@
-.HomePage-Title
+.WelcomePage-Title
 {
-    font-size: 5vw;
+    font-size:5vmax;
     font-weight: bolder;
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    left: 0;
     position: absolute;
     text-align: center;
     top: 30%;
     width: 100%;
 }
-.HomePage-Content
+.WelcomePage-Content
 {
-    font-size: 2vw;
+    font-size:3vmax;
     border-color:white;
     border-radius: 10px;
     border-style: solid;
     width:50%;
-    height: 7vw;
     padding:1vw 1vw 1vw 1vw;
     margin-top:2vw;
     margin-left:25%;
