@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Try-to-learn-shop/static/css/main.cded0e5a.chunk.css",
-    "main.js": "/Try-to-learn-shop/static/js/main.ff928b3e.chunk.js",
-    "main.js.map": "/Try-to-learn-shop/static/js/main.ff928b3e.chunk.js.map",
+    "main.js": "/Try-to-learn-shop/static/js/main.ec0644f7.chunk.js",
+    "main.js.map": "/Try-to-learn-shop/static/js/main.ec0644f7.chunk.js.map",
     "runtime~main.js": "/Try-to-learn-shop/static/js/runtime~main.23b140c6.js",
     "runtime~main.js.map": "/Try-to-learn-shop/static/js/runtime~main.23b140c6.js.map",
     "static/js/2.6e1b0bef.chunk.js": "/Try-to-learn-shop/static/js/2.6e1b0bef.chunk.js",
     "static/js/2.6e1b0bef.chunk.js.map": "/Try-to-learn-shop/static/js/2.6e1b0bef.chunk.js.map",
     "index.html": "/Try-to-learn-shop/index.html",
-    "precache-manifest.be05956ab24a02fdf6dfc266ed3f1a5e.js": "/Try-to-learn-shop/precache-manifest.be05956ab24a02fdf6dfc266ed3f1a5e.js",
+    "precache-manifest.3d007b1ec9b707a7b131ec608a322326.js": "/Try-to-learn-shop/precache-manifest.3d007b1ec9b707a7b131ec608a322326.js",
     "service-worker.js": "/Try-to-learn-shop/service-worker.js",
     "static/css/main.cded0e5a.chunk.css.map": "/Try-to-learn-shop/static/css/main.cded0e5a.chunk.css.map",
     "static/media/categories.svg": "/Try-to-learn-shop/static/media/categories.9ba62e92.svg",
     "static/media/gadgets.svg": "/Try-to-learn-shop/static/media/gadgets.16f7917b.svg",
     "static/media/home.svg": "/Try-to-learn-shop/static/media/home.b164b738.svg",
-    "static/media/image.png": "/Try-to-learn-shop/static/media/image.7d4e3074.png",
     "static/media/shoe.svg": "/Try-to-learn-shop/static/media/shoe.0ff1f2cf.svg",
+    "static/media/skirt.png": "/Try-to-learn-shop/static/media/skirt.7d4e3074.png",
     "static/media/skirt.svg": "/Try-to-learn-shop/static/media/skirt.a7e60a2b.svg",
     "static/media/tshirt.svg": "/Try-to-learn-shop/static/media/tshirt.68d0397d.svg"
   }

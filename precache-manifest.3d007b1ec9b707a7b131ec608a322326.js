@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "74eae0c550247e606cd61401be0ffdea",
+    "revision": "817a506ca7758cdb78fa6d9dff2cf0f6",
     "url": "/Try-to-learn-shop/index.html"
   },
   {
-    "revision": "e276b7b083a8c36cd91f",
+    "revision": "fd469137d450cc4d4dbe",
     "url": "/Try-to-learn-shop/static/css/main.cded0e5a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Try-to-learn-shop/static/js/2.6e1b0bef.chunk.js"
   },
   {
-    "revision": "e276b7b083a8c36cd91f",
-    "url": "/Try-to-learn-shop/static/js/main.ff928b3e.chunk.js"
+    "revision": "fd469137d450cc4d4dbe",
+    "url": "/Try-to-learn-shop/static/js/main.ec0644f7.chunk.js"
   },
   {
     "revision": "454a8708a7ded682677a",
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Try-to-learn-shop/static/media/home.b164b738.svg"
   },
   {
-    "revision": "7d4e3074daf8aea691581121ff309e5d",
-    "url": "/Try-to-learn-shop/static/media/image.7d4e3074.png"
-  },
-  {
     "revision": "0ff1f2cf4484c5446bcf9a47b8a16d65",
     "url": "/Try-to-learn-shop/static/media/shoe.0ff1f2cf.svg"
+  },
+  {
+    "revision": "7d4e3074daf8aea691581121ff309e5d",
+    "url": "/Try-to-learn-shop/static/media/skirt.7d4e3074.png"
   },
   {
     "revision": "a7e60a2bcb69c91ac70ac8b5024556f6",
