@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Try-to-learn-shop/static/css/main.cded0e5a.chunk.css",
-    "main.js": "/Try-to-learn-shop/static/js/main.cd10ceea.chunk.js",
-    "main.js.map": "/Try-to-learn-shop/static/js/main.cd10ceea.chunk.js.map",
+    "main.js": "/Try-to-learn-shop/static/js/main.dfc9cbf4.chunk.js",
+    "main.js.map": "/Try-to-learn-shop/static/js/main.dfc9cbf4.chunk.js.map",
     "runtime~main.js": "/Try-to-learn-shop/static/js/runtime~main.23b140c6.js",
     "runtime~main.js.map": "/Try-to-learn-shop/static/js/runtime~main.23b140c6.js.map",
-    "static/js/2.48bfb853.chunk.js": "/Try-to-learn-shop/static/js/2.48bfb853.chunk.js",
-    "static/js/2.48bfb853.chunk.js.map": "/Try-to-learn-shop/static/js/2.48bfb853.chunk.js.map",
+    "static/js/2.859f6013.chunk.js": "/Try-to-learn-shop/static/js/2.859f6013.chunk.js",
+    "static/js/2.859f6013.chunk.js.map": "/Try-to-learn-shop/static/js/2.859f6013.chunk.js.map",
     "index.html": "/Try-to-learn-shop/index.html",
-    "precache-manifest.31c43e7dc2fffd27b7890427383ba536.js": "/Try-to-learn-shop/precache-manifest.31c43e7dc2fffd27b7890427383ba536.js",
+    "precache-manifest.d0fba10e8ac82486edfade74c8ffb61e.js": "/Try-to-learn-shop/precache-manifest.d0fba10e8ac82486edfade74c8ffb61e.js",
     "service-worker.js": "/Try-to-learn-shop/service-worker.js",
     "static/css/main.cded0e5a.chunk.css.map": "/Try-to-learn-shop/static/css/main.cded0e5a.chunk.css.map",
     "static/media/categories.svg": "/Try-to-learn-shop/static/media/categories.9ba62e92.svg",
-    "static/media/gadgets.svg": "/Try-to-learn-shop/static/media/gadgets.64a50b1d.svg",
-    "static/media/home.svg": "/Try-to-learn-shop/static/media/home.b2717858.svg",
+    "static/media/gadgets.svg": "/Try-to-learn-shop/static/media/gadgets.16f7917b.svg",
+    "static/media/home.svg": "/Try-to-learn-shop/static/media/home.b164b738.svg",
     "static/media/image.png": "/Try-to-learn-shop/static/media/image.7d4e3074.png",
     "static/media/shoe.svg": "/Try-to-learn-shop/static/media/shoe.0ff1f2cf.svg",
     "static/media/skirt.svg": "/Try-to-learn-shop/static/media/skirt.a7e60a2b.svg",
-    "static/media/tshirt.svg": "/Try-to-learn-shop/static/media/tshirt.b38c0163.svg"
+    "static/media/tshirt.svg": "/Try-to-learn-shop/static/media/tshirt.68d0397d.svg"
   }
 }

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e12fb91ffd33c445fe3fdf834d9548c6",
+    "revision": "bc9f575ef35a4b0aa7bfed5413f8f96e",
     "url": "/Try-to-learn-shop/index.html"
   },
   {
-    "revision": "0d53366348dd92afe8a8",
+    "revision": "3c2586f05aaa358b341a",
     "url": "/Try-to-learn-shop/static/css/main.cded0e5a.chunk.css"
   },
   {
-    "revision": "576aaa93de4c5f53ed2e",
-    "url": "/Try-to-learn-shop/static/js/2.48bfb853.chunk.js"
+    "revision": "8022a27927fd54f5a812",
+    "url": "/Try-to-learn-shop/static/js/2.859f6013.chunk.js"
   },
   {
-    "revision": "0d53366348dd92afe8a8",
-    "url": "/Try-to-learn-shop/static/js/main.cd10ceea.chunk.js"
+    "revision": "3c2586f05aaa358b341a",
+    "url": "/Try-to-learn-shop/static/js/main.dfc9cbf4.chunk.js"
   },
   {
     "revision": "454a8708a7ded682677a",
@@ -24,12 +24,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Try-to-learn-shop/static/media/categories.9ba62e92.svg"
   },
   {
-    "revision": "64a50b1d036257b63bd26a16017a105c",
-    "url": "/Try-to-learn-shop/static/media/gadgets.64a50b1d.svg"
+    "revision": "16f7917b681b23431acf64099287b697",
+    "url": "/Try-to-learn-shop/static/media/gadgets.16f7917b.svg"
   },
   {
-    "revision": "b271785865ce8554498166dbcba9db1e",
-    "url": "/Try-to-learn-shop/static/media/home.b2717858.svg"
+    "revision": "b164b738c2a5810d967b6a3a46abf5dd",
+    "url": "/Try-to-learn-shop/static/media/home.b164b738.svg"
   },
   {
     "revision": "7d4e3074daf8aea691581121ff309e5d",
@@ -44,7 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Try-to-learn-shop/static/media/skirt.a7e60a2b.svg"
   },
   {
-    "revision": "b38c016308a22203115995d75e0c8f9a",
-    "url": "/Try-to-learn-shop/static/media/tshirt.b38c0163.svg"
+    "revision": "68d0397db59c268f2cae58279b7eb9a3",
+    "url": "/Try-to-learn-shop/static/media/tshirt.68d0397d.svg"
   }
 ]);
