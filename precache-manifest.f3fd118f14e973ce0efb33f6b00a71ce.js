@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "045ffeb5c16e5ba091a321f75f9881d4",
+    "revision": "a237caf86d45b65a53586b96b2a3922a",
     "url": "/Try-to-learn-shop/index.html"
   },
   {
-    "revision": "852ea86191f864b53e75",
+    "revision": "802387c402bc9a0b563e",
     "url": "/Try-to-learn-shop/static/css/main.cded0e5a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Try-to-learn-shop/static/js/2.6dd829f6.chunk.js"
   },
   {
-    "revision": "852ea86191f864b53e75",
-    "url": "/Try-to-learn-shop/static/js/main.3061627f.chunk.js"
+    "revision": "802387c402bc9a0b563e",
+    "url": "/Try-to-learn-shop/static/js/main.4aa9e086.chunk.js"
   },
   {
     "revision": "454a8708a7ded682677a",
